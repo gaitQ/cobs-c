@@ -1,0 +1,5 @@
+name: cobs
+build:
+  cmake-ext: True
+  kconfig-ext: True
+
